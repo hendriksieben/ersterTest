@@ -1,2 +1,2 @@
 import numpy as np
-print("hallo frikandel")
+print("hallo hollandische frikandel")
